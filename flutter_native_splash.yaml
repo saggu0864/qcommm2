@@ -1,0 +1,6 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  fill : true
+  image: assets/QCommLGIcon.jpg
+  android: true
+  ios: true

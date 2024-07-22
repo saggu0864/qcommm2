@@ -1,0 +1,12 @@
+{
+    "notification": {
+      "title": "Hello!",
+      "body": "This is a test notification."
+    },
+    "data": {
+      "myKey": "some_value",
+      "customKey": "custom_value"
+    },
+    "to": "<your_device_token>"
+  }
+  
